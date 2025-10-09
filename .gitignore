@@ -1,0 +1,5 @@
+build/
+dist/
+*.spec
+__pycache__/
+src/telemetry/P4MCP.exe
